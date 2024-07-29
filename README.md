@@ -1,1 +1,1 @@
-# CursorPlayer
+# Wizard
