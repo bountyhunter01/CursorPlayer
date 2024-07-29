@@ -1,1 +1,2 @@
 # Wizard
+My Game Script
